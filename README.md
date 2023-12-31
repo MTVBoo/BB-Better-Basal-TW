@@ -1,5 +1,6 @@
 # Mindustry BB-Better-Basal-TW
-A Java Mindustry mod template that works on Android and PC. The Kotlin version of this mod can be seen [here](https://github.com/Anuken/MindustryKotlinModTemplate).
+Currently only available for single player on PC
+目前只適用於PC單人使用
 
 ## Building for Desktop Testing
 
